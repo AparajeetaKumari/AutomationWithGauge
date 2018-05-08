@@ -1,0 +1,10 @@
+{
+	"Command": [
+		"/usr/local/bin/gauge",
+		"run",
+		"--machine-readable",
+		"--hide-suggestion",
+		"--simple-console",
+		"/Users/a0k00l0/IdeaProjects/GaugeTest/specs/search.spec:9"
+	]
+}
